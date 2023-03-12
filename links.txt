@@ -1,0 +1,1 @@
+https://medium.com/@samy_raps/simple-movies-web-app-with-vue-vuetify-and-django-part-2-login-2414b984500b
